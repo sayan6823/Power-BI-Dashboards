@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/sayan6823/Power-BI-Dashboards/refs/heads/main/Sales%20Analysis.png" alt="Dashboard 2">
 
 ### Dashboard 3
-<img src="https://raw.githubusercontent.com/sayan6823/Power-BI-Dashboards/refs/heads/main/Profession%20Analysis.png" alt="Dashboard 3">
+<img src="/Power-BI-Dashboards/Profession Analysis.png" alt="Dashboard 3">
 
 
 ## 🛠️ Technologies Used
