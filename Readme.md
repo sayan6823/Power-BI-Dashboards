@@ -5,13 +5,13 @@
 ## 🖼️ Preview
 
 ### Dashboard 1
-<img src="https://raw.githubusercontent.com/sayan6823/Power-BI-Dashboards/refs/heads/main/E%20Commerce%20Dashboard.png" alt="Dashboard 1">
+<img src="https://res.cloudinary.com/dpsekahhh/image/upload/v1757440356/E_Commerce_Dashboard_rceaq8.png" alt="Dashboard 1">
 
 ### Dashboard 2
-<img src="https://raw.githubusercontent.com/sayan6823/Power-BI-Dashboards/refs/heads/main/Sales%20Analysis.png" alt="Dashboard 2">
+<img src="https://res.cloudinary.com/dpsekahhh/image/upload/v1757440356/Sales_Analysis_gc83ye.png" alt="Dashboard 2">
 
 ### Dashboard 3
-<img src="/Power-BI-Dashboards/Profession Analysis.png" alt="Dashboard 3">
+<img src="https://res.cloudinary.com/dpsekahhh/image/upload/v1757440356/Profession_Analysis_z4koeo.png" alt="Dashboard 3">
 
 
 ## 🛠️ Technologies Used
